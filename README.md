@@ -36,4 +36,4 @@ Creating a clean, responsive layout
 
 🚀 Live Preview
 👉 Click here to view Tribute Page
-https://github.com/yourusername/tribute-page
+https://adeife25.github.io/tribute-page/
